@@ -1,8 +1,13 @@
-Faturamento
+# Etapas
+    # Importar base de dados
+    # Visualizar a base de dados
+    # Tratar a base de dado
 
-quantidade de produtos vendidos por loja
+# Questões:
+    # Faturamento por loja
+    # Quantidade de produtos vendidos por loja
+    # Ticket médio por produto em cada loja
+    # Enviar e-mail com relatório
 
-ticket médio por produto em cada loja
-
-enviar e-mail com relatório
-
+# Bibliotecas requeridas:
+pandas==2.0.2
